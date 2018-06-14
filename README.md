@@ -29,4 +29,4 @@ Video Annotation tool (VAT) is used to annotate videos at frame level, each face
     
 **sample image**
     
-    ![Screenshot](https://github.com/Hack-NLP/Face-and-emotion-annotation-in-video/blob/master/VAT.JPG)
+    ![img](https://github.com/Hack-NLP/Face-and-emotion-annotation-in-video/blob/master/VAT.JPG)
