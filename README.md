@@ -26,3 +26,8 @@ Video Annotation tool (VAT) is used to annotate videos at frame level, each face
 5. User can choose expression from the drop down list.
 6. To "SAVE" the work, user need to click on the "Generate" button. File will be saved in downloads as 
     "<filename>_output.xml".
+    
+    **sample image**
+    
+    
+    ![Screenshot](screenshot.png)
